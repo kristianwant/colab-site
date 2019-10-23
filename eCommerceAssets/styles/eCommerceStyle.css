@@ -127,13 +127,15 @@ header {
 /* Content holder for products in catalog*/
 .productRow .productInfo .productContent {
 	position: relative;
-	top: -37px;
+	top: -10px;
 	font-size: 14px;
+	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
 	color: rgba(146,146,146,1.00);
 	white-space: pre-wrap;
+	height: 50px;
 }
 /* Buy button for products in catalog */
 .productRow .productInfo .buyButton {
