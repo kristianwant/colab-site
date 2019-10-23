@@ -41,11 +41,12 @@ header {
 #offer {
 	font-family: 'Montserrat', sans-serif;
 	clear: both;
-	background-color: #DFDFDF;
+	background-color: #EDC7B7;
 	color: #000000;
 	padding-left: 115px;
 	padding-top: 57px;
 	padding-bottom: 57px;
+	color: #AC3B61
 }
 /* Main content of the site */
 #content {
@@ -62,7 +63,7 @@ header {
 	padding-left: 3%;
 	padding-right: 3%;
 	text-align: center;
-	background-color: rgba(246,246,246,1.00);
+	background-color: #BAB2B5;
 	padding-top: 36px;
 	height: 784px;
 }
