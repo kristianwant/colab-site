@@ -106,7 +106,7 @@ header {
 }
 /* Product rows for catalog */
 #content .mainContent .productRow {
-	overflow: auto;
+	overflow: relative;
 	color: rgba(146,146,146,1.00);
 }
 /* Each product Information in the catalog */
@@ -114,7 +114,7 @@ header {
 	float: left;
 	padding-left: 5%;
 	padding-right: 5%;
-	width: 22%;
+	width: 40%;
 }
 /* Prices of a products in catalog */
 .productRow .productInfo .price {
