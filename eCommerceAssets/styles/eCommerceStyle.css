@@ -3,25 +3,15 @@
 a:hover {
 	color: rgba(255,255,255,1.00);
 }
-/* Tester image and text */
-.mainContent .productRow .productInfo .imageAndText {
-	width: 100%;
-	height: relative;
-	position: relative;
-}
-
-.mainContent .productRow .productInfo .imageText {
+/* imae text */
+.productInfo .test .imageText {
 	float: left;
 	position: absolute;
 	z-index: 1;
 	color: blue;
-	padding-top: 50%;
-	padding-right: 30%;
+	font-size: 100%;
+	bottom: 0;
 	right: 0;
-	width: 72px;
-	height: 62px;
-	font-size: 200%;
-	
 }
 
 /*header*/
@@ -63,7 +53,6 @@ header {
 	font-family: 'Montserrat', sans-serif;
 	clear: both;
 	background-color: #EDC7B7;
-	color: #000000;
 	padding-left: 115px;
 	padding-top: 57px;
 	padding-bottom: 57px;
