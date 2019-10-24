@@ -3,17 +3,6 @@
 a:hover {
 	color: rgba(255,255,255,1.00);
 }
-/* imae text */
-.productInfo .test .imageText {
-	float: left;
-	position: absolute;
-	z-index: 1;
-	color: blue;
-	font-size: 100%;
-	bottom: 0;
-	right: 0;
-}
-
 /*header*/
 header {
 	font-family: 'Montserrat', sans-serif;
