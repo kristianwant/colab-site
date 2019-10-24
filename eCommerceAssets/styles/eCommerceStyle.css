@@ -46,7 +46,7 @@ header {
 	padding-left: 115px;
 	padding-top: 57px;
 	padding-bottom: 57px;
-	color: #AC3B61
+	color: #AC3B61;
 }
 /* Main content of the site */
 #content {
@@ -94,8 +94,9 @@ header {
 }
 /* Whole page content */
 #mainWrapper {
-	width: 80%;
-	padding-left: 10%;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
 }
 /*menu elements */
 .menu ul li {
@@ -116,6 +117,7 @@ header {
 	padding-left: 5%;
 	padding-right: 5%;
 	width: 40%;
+	padding-bottom: 10%;
 }
 /* Prices of a products in catalog */
 .productRow .productInfo .price {
@@ -183,7 +185,8 @@ footer div a {
 }
 /* Product's images in catalog */
 .productInfo div img {
-	width: 100%;
+	width: 85%;
+	height: relative;
 }
 /*Links in sidebar */
 .sidebar #menubar .menu ul li a {
