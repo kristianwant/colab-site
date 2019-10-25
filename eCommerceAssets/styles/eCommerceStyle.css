@@ -58,7 +58,7 @@ header {
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(146,146,146,1.00);
 	float: left;
-	width: 20%;
+	width: 10%;
 	padding-left: 3%;
 	padding-right: 3%;
 	text-align: center;
@@ -113,10 +113,11 @@ header {
 /* Each product Information in the catalog */
 .mainContent .productRow .productInfo {
 	float: left;
-	padding-left: 5%;
-	padding-right: 5%;
-	width: 40%;
-	padding-bottom: 10%;
+	padding-left: 6%;
+	padding-right: 0%;
+	width: 27%;
+	padding-bottom: 4%;
+	padding-top: 0%;
 }
 /* Prices of a products in catalog */
 .productRow .productInfo .price {
@@ -184,8 +185,9 @@ footer div a {
 }
 /* Product's images in catalog */
 .productInfo div img {
-	width: 85%;
+	width: 80%;
 	height: relative;
+	border-radius: 2px;
 }
 /*Links in sidebar */
 .sidebar #menubar .menu ul li a {
