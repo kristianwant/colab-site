@@ -108,7 +108,7 @@ header {
 	border-radius: 0px;
 	height: 42px;
 	text-align: center;
-	color: rgba(208,207,207,1.00);
+	color: #000000;
 	font-size: 14px;
 	;
 	margin-bottom: 21px;
@@ -121,7 +121,6 @@ header {
 }
 /*menu elements */
 .menu ul li {
-	list-style-type: none;
 	font-size: x-large;
 	position: relative;
 	left: -35px;
@@ -140,6 +139,7 @@ header {
 	width: 27%;
 	padding-bottom: 4%;
 	padding-top: 0%;
+	color: #000000;
 }
 /* Prices of a products in catalog */
 .productRow .productInfo .price {
@@ -157,7 +157,7 @@ header {
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
-	color: rgba(146,146,146,1.00);
+	color: #000000;
 	white-space: pre-wrap;
 	height: 50px;
 }
@@ -178,7 +178,7 @@ header {
 #mainWrapper footer {
 	clear: both;
 	overflow: auto;
-	background-color: rgba(208,207,207,1.00);
+	background-color: #75CDD8;
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
@@ -195,12 +195,12 @@ header {
 	float: left;
 	padding-left: 4%;
 	padding-right: 2%;
-	color: rgba(255,255,255,1.00);
+	color: #F0F2E7;
 	text-align: justify;
 }
 /* Links in footer */
 footer div a {
-	color: rgba(146,146,146,1.00);
+	color: rgba(0,0,0,1.00);
 	display: block;
 	text-decoration: none;
 	text-align: center;
